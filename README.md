@@ -15,7 +15,7 @@ It is documented throughout all of it to facilitate the understanding of why cer
 Coincidentaly there are also two files in the datas folder, one with the initial raw data, the other one with the cleaned data.
 The names of the .csv files should clear which is which.  
 
-Finally there's a tableau url as well as the corresponding file in which I explored my data in a way that could be present in under 6min.  
+Finally, in the slides folder, there's a tableau url as well as the corresponding file in which I explored my data in a manner that could hopefully be presented in under 6min.  
   
 Special thanks to the main teacher Ignácio as well as the TA Maria, for checking up on our progress everyday and managing to help out every student on this
 fairly stressful week.
