@@ -10,12 +10,15 @@ release date, developer, genre and so on.
   
 There are two notebooks, one used for the initial exploration of my data with a fair amount of cmoments, as well as helping prepare to clean said data.
 The second one contains the full cleaning process executed throgh a single function that calls multiple functions which ends up saving the cleaned data to a new file.
-It is documented throughout all of it to facilitate the understanding of why certain things are done and what exactly is the goal of each fucntion.  
+It is documented throughout all of it to facilitate the understanding of why certain things are done and what exactly is the goal of each fucntion. 
+There is also a python file with all the functions uses.
   
 Coincidentaly there are also two files in the datas folder, one with the initial raw data, the other one with the cleaned data.
 The names of the .csv files should clear which is which.  
 
-Finally, in the slides folder, there's a tableau url as well as the corresponding file in which I explored my data in a manner that could hopefully be presented in under 6min.  
+In the slides folder, there's a tableau url as well as the corresponding file in which I explored my data in a manner that could hopefully be presented in under 6min. 
+  
+All of the modules used for this project are located in the requirements.txt file.
   
 Special thanks to the main teacher Ignácio as well as the TA Maria, for checking up on our progress everyday and managing to help out every student on this
 fairly stressful week.
